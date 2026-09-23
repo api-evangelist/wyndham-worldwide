@@ -1,7 +1,9 @@
 ---
 title: Wyndham Hotels & Resorts Selects AWS as Its Preferred ...
 url: https://www.businesswire.com/news/home/20210811005880/en/Wyndham-Hotels-Resorts-Selects-AWS-as-Its-Preferred-Cloud-Provider-to-Enhance-Guest-Experiences
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Wyndham Worldwide" press release artificial intelligence'
 position: 3
 source: serpapi-google

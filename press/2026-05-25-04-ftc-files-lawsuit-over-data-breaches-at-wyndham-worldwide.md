@@ -1,7 +1,9 @@
 ---
 title: FTC files lawsuit over data breaches at Wyndham Worldwide
 url: https://www.computerworld.com/article/1548356/ftc-files-lawsuit-over-data-breaches-at-wyndham-worldwide.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Wyndham Worldwide" press release artificial intelligence'
 position: 4
 source: serpapi-google
