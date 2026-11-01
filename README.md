@@ -1,4 +1,4 @@
-# Wyndham Worldwide (wyndham-worldwide)
+# Wyndham Worldwide Corporation
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,20 +66,24 @@
 
 Wyndham Worldwide Corporation was a global hospitality holding company that offered hotel franchising, vacation ownership, and exchange services. On May 31, 2018, it completed the spin-off of its hotel business as Wyndham Hotels & Resorts, Inc. (NYSE: WH) and the remaining vacation ownership and exchange business was renamed Wyndham Destinations, Inc. (NYSE: WYND), which was later renamed Travel + Leisure Co. (NYSE: TNL) on February 17, 2021. Wyndham Worldwide no longer exists as an operating entity.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/wyndham-worldwide/refs/heads/main/apis.yml)
+## Wyndham Worldwide Corporation on APIs.io
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+Everything profiled for Wyndham Worldwide Corporation is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/wyndham-worldwide/](https://apis.io/providers/wyndham-worldwide/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## API Evangelist rating
 
-- **Modified:** 2026-05-03
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## APIs
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-No APIs are documented for Wyndham Worldwide. The company was dissolved as an operating entity in 2018; see the successor companies below for current API and developer resources.
+## How this profile is made
 
-## Common Properties
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Wyndham_Worldwide)
-- [Wyndham Hotels & Resorts (Successor)](https://corporate.wyndhamhotels.com) — Hotel franchising and management business spun off from Wyndham Worldwide on May 31, 2018, now an independent publicly traded company (NYSE: WH).
-- [Travel + Leisure Co. (Successor)](https://www.travelandleisureco.com) — Vacation ownership and exchange business that remained after the May 31, 2018 spin-off; renamed from Wyndham Destinations to Travel + Leisure Co. on February 17, 2021 (NYSE: TNL).
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Wyndham Worldwide Corporation: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/wyndham-worldwide/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
